@@ -1,0 +1,37 @@
+{
+	"books": [
+		{
+			"title": "dfdfd",
+			"authors": ["dfdfdf"],
+			"year": 2005,
+			"price": "30.00"
+		},
+		
+		{
+			"title": "Hdfdf",
+			"authors": ["J K. Rdfdfdf"],
+			"year": 2005,
+			"price": "29.99"
+		},
+		
+		{
+			"title": "XQuerydfdfdfdart",
+			"authors": [
+				"James Mc12323Govern",
+				"Per Botdfdfhner",
+				"Kurt Cag232le",
+				"James Linn",
+				"Vaidyadfdfajan"
+			],
+			"year": 2003,
+			"price": "49.99"
+		},
+		
+		{
+			"title": "Learn2323ing XML",
+			"authors": ["Eri2323k T. Ray"],
+			"year": 2003,
+			"price": "39.95"
+		}
+	]
+}
